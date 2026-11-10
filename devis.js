@@ -1,4 +1,4 @@
-// Cloudflare Pages Function: POST /api/devis
+functions/api/devis.js
 // Configure RESEND_API_KEY and FROM_EMAIL in Cloudflare Pages > Settings > Variables and Secrets.
 const DESTINATION = "issoufoutanda@gmail.com";
 
