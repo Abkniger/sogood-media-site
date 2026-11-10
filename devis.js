@@ -1,6 +1,6 @@
 functions/api/devis.js
 // Configure RESEND_API_KEY and FROM_EMAIL in Cloudflare Pages > Settings > Variables and Secrets.
-const DESTINATION = "issoufoutanda@gmail.com";
+const DESTINATION = "abdoulkarimmichael@gmail.com";
 
 function clean(value, max = 3000) {
   return String(value == null ? "" : value).trim().slice(0, max);
